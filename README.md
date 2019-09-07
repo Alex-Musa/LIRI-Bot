@@ -6,6 +6,8 @@ spotify-this-song : Takes in song name and returns song information from Spotify
 movie-this : Takes in movie name and reutrns movie information from OMDB API.
 do-what-it-says : Reads random.txt file and executes the containing command.
 
+
+### video on Youtube
 https://www.youtube.com/watch?v=gu3RCQrw53o
 
 ### Spotify
@@ -18,7 +20,9 @@ The Spotify API will return search results for the song with the following infor
 * The song's name
 * A preview link of the song from Spotify
 * The album that the song is from
-![1](1.PNG)
+
+
+![](2.png)
 
 
 
@@ -36,3 +40,5 @@ The OMDB API is accessed using the `axios` package and renders the following inf
 * Language of the movie
 * Plot of the movie
 * Actors in the movie
+
+![](1.png)
